@@ -4,5 +4,7 @@ public class Test {
         int a=0;
         int b=20;
         System.out.println(a+b);
+        String str="Hello";
+        System.out.println(str);
     }
 }
